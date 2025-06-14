@@ -93,13 +93,13 @@ Subscriptions are **flexible and dynamic**, based on:
 
 ### 🖥️ Languages
 - Python
-- JavaScript
+
 
 ### 🧰 Backend
 - Django
 
 ### 🎨 Frontend
-- HTMX
+
 - HTML, CSS, JavaScript
 - (Optional: React for future versions)
 
@@ -109,7 +109,7 @@ Subscriptions are **flexible and dynamic**, based on:
 
 ### 🤖 AI / ML
 - Pose detection using body keypoints
-- Powered by MediaPipe or OpenCV
+- Powered by MediaPipe 
 
 ### 💳 Payment Gateway
 - Razorpay
@@ -119,4 +119,5 @@ Subscriptions are **flexible and dynamic**, based on:
 - Docker Compose
 
 ### 🔄 Version Control
-- Git
+- Bitbucket
+  
